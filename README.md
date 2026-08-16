@@ -70,4 +70,3 @@ Security operations and threat detection &nbsp;|&nbsp; Penetration testing funda
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD)](https://www.linkedin.com/in/mohammed-ishtiaq-3842aa331/)
 
 </div>
-
