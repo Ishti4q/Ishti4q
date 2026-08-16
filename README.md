@@ -37,7 +37,7 @@ Interested in machine learning and cybersecurity — mainly threat detection and
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishti4q&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=50FA7B&fire=FF79C6&currStreakLabel=50FA7B" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Ishti4q&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=50FA7B&fire=FF79C6&currStreakLabel=50FA7B" alt="Streak Stats" />
 
 </div>
 
@@ -70,3 +70,4 @@ Security operations and threat detection &nbsp;|&nbsp; Penetration testing funda
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=8BE9FD)](https://www.linkedin.com/in/mohammed-ishtiaq-3842aa331/)
 
 </div>
+
