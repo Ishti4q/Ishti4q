@@ -1,58 +1,57 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=550&lines=whoami;Ishti4q;occasionally+curious." alt="Typing SVG" />
+# Hi, I'm Ishtiaq
+
+Interested in machine learning and cybersecurity — mainly threat detection and offensive security.
 
 </div>
 
 <br>
 
-```bash
-$ whoami
-> student, ML + cybersecurity
-
-$ cat interests.txt
-> occasionally curious. mostly about things that don't matter.
-
-$ status --current
-> [x] digging too deep into something
-> [ ] climbing back out
-```
-
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishti4q&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishti4q&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Langs" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishti4q&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak Stats" />
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7AA2F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DC6F)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
+![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=for-the-badge&logo=splunk&logoColor=7AA2F7)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=F0A500)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=7AA2F7)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=7AA2F7)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=7AA2F7)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=BB9AF7)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=C0CAF5)
 
 </div>
 
 <br>
 
-```bash
-$ ls ./skills
-python/    machine-learning/    xgboost/    neural-networks/
-splunk/    aws/    threat-detection/    siem/
-```
-
-<br>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C)](https://www.linkedin.com/in/mohammed-ishtiaq-3842aa331/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF9C)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=00FF9C)](#)
+<img src="https://github-readme-stats.vercel.app/api?username=Ishti4q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishti4q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5" alt="Top Langs" height="165"/>
 
 </div>
 
 <div align="center">
 
-<sub>current session: 1 rabbit hole deep</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishti4q&theme=tokyonight&hide_border=true&background=0D1117&stroke=7AA2F7&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="Streak Stats" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Focus areas
+
+Security operations and threat detection &nbsp;|&nbsp; Penetration testing fundamentals &nbsp;|&nbsp; ML for predictive modeling
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://www.linkedin.com/in/mohammed-ishtiaq-3842aa331/)
 
 </div>
