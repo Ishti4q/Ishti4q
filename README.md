@@ -37,7 +37,7 @@ Interested in cybersecurity — mainly cloud security, offensive security, and t
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Ishti4q&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=50FA7B&fire=FF79C6&currStreakLabel=50FA7B" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Ishti4q&theme=dracula&hide_border=true&background=282A36&stroke=8BE9FD&ring=8BE9FD&fire=8BE9FD&currStreakLabel=8BE9FD" alt="Streak Stats" />
 
 </div>
 
