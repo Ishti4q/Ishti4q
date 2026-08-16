@@ -59,7 +59,7 @@ Interested in cybersecurity — mainly cloud security, offensive security, and t
 
 ### Focus areas
 
-Security operations and threat detection &nbsp;|&nbsp; Penetration testing fundamentals &nbsp;|&nbsp; ML for predictive modeling
+Cloud Security &nbsp;|&nbsp; Offensive Security &nbsp;|&nbsp; Threat Detection &nbsp;|&nbsp; Penetration Testing Fundamentals
 
 </div>
 
